@@ -1,0 +1,8 @@
+env
+images
+cron.log
+_TODO.txt
+.env
+.env.local
+.env.production
+.vscode
